@@ -1,7 +1,5 @@
 == README
 
-Ruby on rails link sharing application based on Mackenzie Childs tutorial 
+Ruby on rails link sharing application 
 
-12 apps in 12 weeks challenge
-
-
+Based on the 12 apps in 12 weeks tutorial challenge
